@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/melikeekilic" target="blank"><img src="https://img.shields.io/twitter/follow/melikeekilic?logo=twitter&style=for-the-badge" alt="melikeekilic" /></a> </p>
 
-- 👯 I’m looking to collaborate on **open source projects.(never done any, feel free to reach out to collaborate and learn together))**
+- 👯 I’m looking to collaborate on **open source projects.(never done any, feel free to reach out to collaborate and learn together)**
 
 - 👨‍💻 All of my projects are available at: [http://melikekilic.surge.sh/](http://melikekilic.surge.sh/)
 
