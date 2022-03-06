@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">✨Hey there! I'm Melike.✨</h1>
-<h3 align="center">A self taught application developer in the US, and I currently work at IBM. 💻🙋🏻‍♀️</h3>
+<h3 align="center">A self taught application developer who currently works at IBM. 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melkilic&label=Profile%20views&color=0e75b6&style=flat" alt="melkilic" /> </p>
 
