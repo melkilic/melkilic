@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://twitter.com/melikeekilic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="melikeekilic" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/melike-kilic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melike kilic" height="30" width="40" /></a>
-<a href="https://instagram.com/melllkilic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melllkilic" height="30" width="40" /></a>
 <a href="https://medium.com/@melikekilic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@melike kilic" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCjIus15v1gCuHrGL8m2ZmxA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="just mel" height="30" width="40" /></a>
 </p>
