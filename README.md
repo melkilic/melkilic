@@ -1,9 +1,10 @@
 <h1 align="center">Hey there! I'm Melike</h1>
+<h3 align="center">A little bit about me: I started my coding journey after moving to the U.S. a couple of years ago. I went to a bootcamp and got accepted into the Application Developer Apprenticeship at IBM soon after. <br/> Since my apprenticeship ended, I have worked as a QA Tester and a Scrum Master, and gained exposure to development. I have recently earned my SAP Fiori Developer certification and I am currently working on my AZ900 and AWS.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melkilic&label=Profile%20views&color=0e75b6&style=flat" alt="melkilic" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melkilic" alt="melkilic" /></a> </p>
 
-- 🔭 I’m currently working on **building a new portfolio and getting my Microsoft AZ900 certificate.**
+- 🔭 I’m currently working on **building a new portfolio.**
 
 - 👨‍💻My projects are available at: [http://melikekilic.surge.sh/](http://melikekilic.surge.sh/)
 
@@ -17,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/melike kilic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melike kilic" height="30" width="40" /></a>
-<a href="https://medium.com/@melike kilic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@melike kilic" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/melike-kilic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melike-kilic" height="30" width="40" /></a>
+<a href="https://medium.com/@melikekilic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@melikekilic" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
