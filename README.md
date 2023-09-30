@@ -7,7 +7,7 @@
 
 - 👨‍💻My projects are available at: [http://melikekilic.surge.sh/](http://melikekilic.surge.sh/)
 
-- 📝 I write articles on: [https://medium.com/@melikekilic](https://medium.com/@melikekilic)
+- 📝 I write blogs on: [https://medium.com/@melikekilic](https://medium.com/@melikekilic)
 
 - 📫 How to reach me: **mk.melikekilic@gmail.com**
 
