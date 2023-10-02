@@ -6,15 +6,15 @@
 
 - 🔭 I’m currently working on **building a new portfolio.**
 
-- 👨‍💻You can find my portfolio here: [http://melikekilic.surge.sh/](http://melikekilic.surge.sh/)
+- 👩🏻‍💻 You can find my portfolio here: [http://melikekilic.surge.sh/](http://melikekilic.surge.sh/)
 
-- 📝 I write blogs on: [https://medium.com/@melikekilic](https://medium.com/@melikekilic)
+- ✍🏻 I write blogs on: [https://medium.com/@melikekilic](https://medium.com/@melikekilic)
 
-- 📫 How to reach me: **mk.melikekilic@gmail.com**
+- 📩 How to reach me: **mk.melikekilic@gmail.com**
 
 - See my resume: [https://docs.google.com/document/d/1wKFggTzHRmDDaqbWJOc8oa8nL1ZnIu1yADhA8tWkNmc/edit?usp=sharing](https://docs.google.com/document/d/1wKFggTzHRmDDaqbWJOc8oa8nL1ZnIu1yADhA8tWkNmc/edit?usp=sharing)
 
-⚡ Fun fact: **I lived on 3 continents in the last 6 years.**
+✨ Fun fact: **I lived on 3 continents in the last 6 years. 🌍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
