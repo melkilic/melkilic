@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **building a new portfolio.**
 
-- 👨‍💻You can fiind my portfolio herre: [http://melikekilic.surge.sh/](http://melikekilic.surge.sh/)
+- 👨‍💻You can find my portfolio here: [http://melikekilic.surge.sh/](http://melikekilic.surge.sh/)
 
 - 📝 I write blogs on: [https://medium.com/@melikekilic](https://medium.com/@melikekilic)
 
